@@ -2,7 +2,8 @@
 
 **2º Bach · Curso 2026-2027**
 
-Aquí escribiré lo que haga en TDA II
+
+``Aquí iré escribiendo todo lo que haga en la asignatura de TDA II``
 ---
 
 ## Índice
