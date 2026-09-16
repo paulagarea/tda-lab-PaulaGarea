@@ -3,16 +3,11 @@
 
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 16/09 · Mis aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Llevo pinbtando desde que tengo 8 años. He ido a clases de pintura y de pintura textil hasta es año pasado. He pintado todo tipo de ropa y objetos ya que le puedes dar un toque muy personal a lo que quieras y hacer buenos regalos pero, lo que más me gusta es la tranquilidad que me transmite la actividad y poder aprender y superar mis propias pinturas y texturas. Me ayudaba mucho para desestresarme y aumentar mi creatividad.
 
-```
-### Título del tema — fecha
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+Busacando en Github he encojntrado esto [lllyasviel](https://github.com/lllyasviel/style2paints.git)  
+Una página donde encuentras herramientas para aprender
+
