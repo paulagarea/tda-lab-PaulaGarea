@@ -11,4 +11,4 @@ Llevo pinbtando desde que tengo 8 años. He ido a clases de pintura y de pintura
 Busacando en Github he encojntrado esto [lllyasviel](https://github.com/lllyasviel/style2paints.git)  
 Una página donde encuentras herramientas para aprender
 
-![pintura](capturas/Captura de pantalla 2026-09-16 141716.png) 
+![Mi red](capturas/Captura de pantalla 2026-09-16 141716.png) 
