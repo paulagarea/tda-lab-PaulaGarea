@@ -28,6 +28,6 @@ Leo Messi es un futbolista argentino considerado uno de los grandes jugadores de
 
 
 
-![Leo Messi](capturas/leomessi)
+![Leo Messi](capturas/leomessi.png)
 
 Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Lionel_Messi)
