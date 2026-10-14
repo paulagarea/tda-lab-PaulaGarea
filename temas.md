@@ -31,3 +31,16 @@ Leo Messi es un futbolista argentino considerado uno de los grandes jugadores de
 ![Leo Messi](capturas/leomessi.png)
 
 Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Lionel_Messi)
+
+
+
+
+
+### 13/10 · Ada Lovelace
+
+TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
+![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+*PIE DE FOTO. Imagen: E.Le Morvan, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image)*
+
