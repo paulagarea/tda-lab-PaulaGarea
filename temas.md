@@ -43,7 +43,6 @@ Ada Lovelace fue una matemática y escritora británica. En 1843 tradujo un art�
  El Día de Ada Lovelace celebra los logros de las mujeres en ciencia y tecnología y se celebra el segundo martes de octubre este año fue el 13.
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![DESCRIPCIÓN CORTA](capturas/AdaLovelace.JPG
-.jpg){: width="300"}
+![DESCRIPCIÓN CORTA](capturas/AdaLovelace.JPG.jpg){: width="300"}
 *PIE DE FOTO. Imagen: E.Le Morvan, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image)*
 
