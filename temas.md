@@ -44,5 +44,5 @@ Ada Lovelace fue una matemática y escritora británica. En 1843 tradujo un art�
 Según la wikipedia [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
 ![Ada Lovelace](capturas/AdaL.jpg){: width="300"}
-*Cuadro de Ada. Imagen: E.Le Morvan, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image)*
+*PIE DE FOTO. Imagen: E.Le Morvan, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image)*
 
