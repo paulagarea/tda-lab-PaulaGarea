@@ -41,8 +41,8 @@ Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:L
 
 Ada Lovelace fue una matemática y escritora británica. En 1843 tradujo un artículo sobre la Máquina Analítica de Charles Babbage y añadió notas que explicaban cómo podía seguir instrucciones para hacer cálculos y trabajar con símbolos. Por eso se la considera pionera de la programación, aunque algunos historiadores debaten si fue la primera, así lo muestran el Science Museum y un artículo académico. 
  El Día de Ada Lovelace celebra los logros de las mujeres en ciencia y tecnología y se celebra el segundo martes de octubre este año fue el 13.
-[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+Según la wikipedia [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![Ada Lovelace](capturas/AdaLovelace.JPG){: width="300"}
+![Ada Lovelace](capturas/AdaLovelace.JPG.png){: width="300"}
 *PIE DE FOTO. Imagen: E.Le Morvan, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image)*
 
