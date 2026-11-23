@@ -37,5 +37,5 @@
 ###  16/11 U1_A6-Funciones
   
 - **Aplicación:** Python
-- **Entregado:**U1_A6-Funciones-PaulaG.zip
+- **Entregado:**  U1_A6-Funciones-PaulaG.zip
 - **Qué hice:** En esta ocasión, estos 7 programas los hicimos a la vez que el profesor intentándolos antes nosotros por su dificultad.
