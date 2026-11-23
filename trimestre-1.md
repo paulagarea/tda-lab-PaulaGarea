@@ -11,7 +11,7 @@
 ### 19/10·  U1_A2_VarablesyOperadores
 
 - **Aplicación:** Python
-- **Entregado:**U1_A2-VariablesYOperadores-PaulaG.zip
+- **Entregado:** 0U1_A2-VariablesYOperadores-PaulaG.zip
 - **Qué hice:** Realice 13 programaciones basándome en las instrucciones y pautas de la tarea y profesor.
 
  ### 21/10·  U1_A3_Decisiones
@@ -21,28 +21,21 @@
 - **Qué hice:** Realice los 14 programas propuestos basándome en las instrucciones y pautas de la tarea y profesor.
 
 
-- ### 23/10·  U1_A4-Repetición
+ ### 23/10·  U1_A4-Repetición
 
 - **Aplicación:** Python
 - **Entregado:** U1_A4-Repeticion-Paula.zip
 - **Qué hice:** Programé en Thony, como siempre, los 10 programas propuestos basándome en las instrucciones y pautas de la tarea y profesor.
-- 
 
--06/11·U1_A5 Cadenas y listas
+
+### 06/11. U1_A5 Cadenas y listas
   
 - **Aplicación:** Python
 - **Entregado:** U1_A5-CadenasYListas-Paula.zip
 - **Qué hice:** Otros 10 programas en este caso sobre cadenas y listas de cosas para programarlos en las instrucciones y pautas de la tarea y profesor.
 - 
-  16/11 U1_A6-Funciones
+###  16/11 U1_A6-Funciones
   
 - **Aplicación:** Python
 - **Entregado:**U1_A6-Funciones-PaulaG.zip
 - **Qué hice:** En esta ocasión, estos 7 programas los hicimos a la vez que el profesor intentándolos antes nosotros por su dificultad.
-
----
----
----
----
----
----
