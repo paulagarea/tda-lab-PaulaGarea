@@ -8,21 +8,20 @@
 - **Entregado:** U1_A1-EscribirEnPantalla-Paula.zip
 - **Qué hice:** Realice 7 programaciones basándome en las instrucciones y pautas de la tarea.
 
-- 19/10·  U1_A2_VarablesyOperadores
+### 19/10·  U1_A2_VarablesyOperadores
 
 - **Aplicación:** Python
 - **Entregado:**U1_A2-VariablesYOperadores-PaulaG.zip
 - **Qué hice:** Realice 13 programaciones basándome en las instrucciones y pautas de la tarea y profesor.
 
-
-- 21/10·  U1_A3_Decisiones
+ ### 21/10·  U1_A3_Decisiones
 
 - **Aplicación:** Python
 - **Entregado:**U1_A3-Decisiones-PaulaG.zip
 - **Qué hice:** Realice los 14 programas propuestos basándome en las instrucciones y pautas de la tarea y profesor.
 
 
-- 23/10·  U1_A4-Repetición
+- ### 23/10·  U1_A4-Repetición
 
 - **Aplicación:** Python
 - **Entregado:** U1_A4-Repeticion-Paula.zip
