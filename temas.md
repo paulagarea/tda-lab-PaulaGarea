@@ -62,7 +62,7 @@ La Voyager 1 es una sonda espacial de la NASA que se lanzó el 5 de septiembre d
 | Lo que tarda su señal en llegar | DATO EN HORAS |
 | Años de viaje | 49 años |
 
-![Voyager 1](capturas/voyager.jpg)
+![Voyager 1](capturas/voyager.png)
 *La sonda espacial Voyager 1. Imagen: AUTOR, [Wikimedia Commons](ENLACE DE LA IMAGEN).*
 
 **Mi Disco de Oro 2026**
