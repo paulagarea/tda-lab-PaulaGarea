@@ -46,3 +46,31 @@ Según la wikipedia [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ad
 ![Ada Lovelace](capturas/Ada.jpg){: width="300"}
 *Cuadro de Ada. Imagen: E.Le Morvan, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image)*
 
+
+
+### 27/11/2026 · Voyager 1
+
+La Voyager 1 es una sonda espacial de la NASA que se lanzó el 5 de septiembre de 1977. Su misión era explorar los planetas y estudiar el espacio. Actualmente sigue viajando fuera de nuestro sistema solar y es noticia porque continúa funcionando después de casi 50 años. Me parece increíble que pueda seguir enviando información a la Tierra desde una distancia tan enorme.
+
+[Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1)
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | 5 de septiembre de 1977 |
+| Distancia a la Tierra | DATO EN KM |
+| Velocidad | DATO EN KM/H |
+| Lo que tarda su señal en llegar | DATO EN HORAS |
+| Años de viaje | 49 años |
+
+![Voyager 1](capturas/voyager.jpg)
+*La sonda espacial Voyager 1. Imagen: AUTOR, [Wikimedia Commons](ENLACE DE LA IMAGEN).*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** una fotografía de la Tierra desde el espacio y la canción «Viva la vida», de Coldplay.
+- **En qué idioma:** español e inglés.
+- **En qué formato:** imagen digital y archivo de audio.
+
+---
+
+
