@@ -64,7 +64,7 @@ La Voyager 1 es una sonda espacial de la NASA que se lanzó el 5 de septiembre d
 
 ![Voyager 1](capturas/voyager.png){: width="300"}
 
-*La sonda espacial Voyager 1. Imagen: AUTOR, [Wikimedia Commons](ENLACE DE LA IMAGEN).*
+*La sonda espacial Voyager 1. Imagen: AUTOR, [Wikimedia Commons](https://en.wikipedia.org/wiki/Voyager_1#/media/File:Voyager_spacecraft_model.png)).*
 
 **Mi Disco de Oro 2026**
 
