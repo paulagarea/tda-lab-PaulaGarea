@@ -57,12 +57,13 @@ La Voyager 1 es una sonda espacial de la NASA que se lanzó el 5 de septiembre d
 | Dato | Voyager 1 |
 |---|---|
 | Lanzamiento | 5 de septiembre de 1977 |
-| Distancia a la Tierra | DATO EN KM |
-| Velocidad | DATO EN KM/H |
+| Distancia a la Tierra | 25.918.000.000 km |
+| Velocidad | 61.155 km/h |
 | Lo que tarda su señal en llegar | DATO EN HORAS |
 | Años de viaje | 49 años |
 
 ![Voyager 1](capturas/voyager.png){: width="300"}
+
 *La sonda espacial Voyager 1. Imagen: AUTOR, [Wikimedia Commons](ENLACE DE LA IMAGEN).*
 
 **Mi Disco de Oro 2026**
